@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "669103988116",
+    "project_id": "vidyarthibus-8b38f",
+    "storage_bucket": "vidyarthibus-8b38f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669103988116:android:157c2dd7fcd31aec2b8381",
+        "android_client_info": {
+          "package_name": "com.example.vidyarthifinal2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOGzzPZgMRr-8RnJwtjCXxF3sQDRRuVpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669103988116:android:9e4a0706fcea7d102b8381",
+        "android_client_info": {
+          "package_name": "com.mindmatrix.vidyarthibus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOGzzPZgMRr-8RnJwtjCXxF3sQDRRuVpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
